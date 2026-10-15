@@ -1,0 +1,6 @@
+patient_id,age,heart_rate,department
+P2001,0,75,Gen Med
+P2002,45,missing,Cardio
+P2003,abc,80,Neurology
+P2004,130,90,Orthopedics
+P2005,60,25,General-Med
