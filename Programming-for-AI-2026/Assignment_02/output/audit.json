@@ -1,0 +1,30 @@
+{
+    "row_count": 100,
+    "column_count": 4,
+    "missing_counts": {
+        "patient_id": 0,
+        "age": 8,
+        "heart_rate": 10,
+        "department": 0
+    },
+    "exact_duplicate_count": 1,
+    "repeated_id_count": 0,
+    "invalid_value_counts": {
+        "age": 2,
+        "heart_rate": 0
+    },
+    "nonnumeric_counts": {
+        "age": 1,
+        "heart_rate": 0
+    },
+    "department_labels": [
+        "Cardio",
+        "Cardiology",
+        "Gen Med",
+        "General Med",
+        "General Medicine",
+        "General-Med",
+        "Neurology",
+        "Orthopedics"
+    ]
+}
